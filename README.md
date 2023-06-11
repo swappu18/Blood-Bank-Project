@@ -1,1 +1,9 @@
-# new
+# new![Screenshot 2023-06-11 192203](https://github.com/swappu18/Blood-Bank-Project/assets/119283443/1d464b23-3440-43a5-8a58-2671bbc220e4)
+![Screenshot 2023-06-11 192311](https://github.com/swappu18/Blood-Bank-Project/assets/119283443/7dd624c2-34c8-407e-a183-9fb55e81d015)
+![Screenshot 2023-06-11 192352](https://github.com/swappu18/Blood-Bank-Project/assets/119283443/010fc9d4-30d4-4dbd-b8ae-e6614399f680)
+![Screenshot 2023-06-11 192425](https://github.com/swappu18/Blood-Bank-Project/assets/119283443/ea9df61f-45d0-414c-a226-cf126d1e5a73)
+![Screenshot 2023-06-11 192447](https://github.com/swappu18/Blood-Bank-Project/assets/119283443/ca1844dd-e76b-4641-b0c2-1a5189481b4f)
+![Screenshot 2023-06-11 192535](https://github.com/swappu18/Blood-Bank-Project/assets/119283443/0cc1d877-b3a5-474a-b910-0bb7993cee5a)
+![Screenshot 2023-06-11 192549](https://github.com/swappu18/Blood-Bank-Project/assets/119283443/5b9f6569-a204-4ebe-8c48-08521b7ab6fd)
+![Screenshot 2023-06-11 192604](https://github.com/swappu18/Blood-Bank-Project/assets/119283443/f955ef6e-5387-47a1-b75c-2a5d32e4459c)
+![Screenshot 2023-06-11 192617](https://github.com/swappu18/Blood-Bank-Project/assets/119283443/e7e02a98-8d03-4bea-a619-0375b417a5a1)
